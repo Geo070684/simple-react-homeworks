@@ -1,0 +1,9 @@
+.wrapper{
+    margin-left: 15px;
+}
+.button{
+    background-color: #cce779;
+}
+.checkbox{
+    cursor: pointer;
+}
